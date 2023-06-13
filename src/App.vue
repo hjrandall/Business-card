@@ -1,5 +1,5 @@
 <template>
-  <v-btn>hi mom</v-btn>
+  <v-btn>hi moms</v-btn>
 </template>
 
 <style scoped>
