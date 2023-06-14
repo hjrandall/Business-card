@@ -5,14 +5,14 @@
       <h1>Hayden Randall</h1>
       <h3>Associate Software Developer Engineer in Test</h3>
     </div>
-    <a class="info" href="tel:+4806266584">
+    <div class="info">
       <img class="left_off_set" src="./assets/smartphone.png" alt="">
       <p class="left_off_set">(480)-625-6584</p>
-    </a>
-    <a class="info" href="mailto:haydenjrandall@gmail.com">
+    </div>
+    <div class="info">
       <img class="left_off_set" src="./assets/mail1.png" alt="">
-      <p class="left_off_set">haydenjrandall@gmail.com</p>
-    </a>
+      <p class="left_off_set email">haydenjrandall@gmail.com</p>
+    </div>
     <div id="call_to_action">
       <h3>Let's connect!</h3>
       <p>Seeking Software Development Opportunities.</p>
@@ -26,10 +26,6 @@
 </template>
 
 <style scoped>
-a{
-  text-decoration: none;
-  color: white;
-}
 #card{
   width: 600px;
   height: auto;
@@ -67,6 +63,9 @@ a{
 }
 .icon_space{
   margin-left: 30px;
+}
+.email{
+  margin-top: -10px;
 }
 .info{
   display: flex;
