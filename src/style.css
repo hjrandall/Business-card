@@ -2,10 +2,16 @@
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
+  box-sizing: border-box;
 
-  color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  /* color-scheme: light dark; */
+  color: rgb(255, 255, 255);
+  background-image: url('./assets/bricks-459299_1920.jpg');
+  background-repeat: no-repeat;
+  background-size:auto;
+  background-position: center;
+  background-color: #5b5e5f;
+  
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
