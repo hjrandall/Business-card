@@ -2,21 +2,21 @@
   <v-card id="card">
     <div id="profile_header">
       <img id="profile-pic" src="./assets/profilepic.jpg" alt="profile picture">
-      <h1>Hayden Randall</h1>
-      <h3>Associate Software Developer Engineer in Test</h3>
+      <h1>Dave Eckhout</h1>
+      <h3>Profesional Step Dad</h3>
     </div>
     <div class="info">
       <img class="left_off_set" src="./assets/smartphone.png" alt="">
-      <p class="left_off_set">(480)-625-6584</p>
+      <p class="left_off_set">(602)-717-1840</p>
     </div>
     <div class="info">
       <img class="left_off_set" src="./assets/mail1.png" alt="">
-      <p class="left_off_set email">haydenjrandall@gmail.com</p>
+      <p class="left_off_set email">DaveEckhout@gmail.com</p>
     </div>
     <div id="call_to_action">
       <h3>Let's connect!</h3>
-      <p>Seeking Software Development Opportunities.</p>
-      <p>Let's collaborate on your next project. Reach out to discuss how I can contribute to your team.</p>
+      <p>Do you strugle being a step dad?</p>
+      <p>No need to freat! i can help you with all your step dad needs.</p>
     </div>
     <div id="social_media">
       <a href="https://www.linkedin.com/in/hayden-randall-56a98a207/" target="_blank"><img src="./assets/linkedin1.png" alt="linkedin icon"></a>
@@ -32,7 +32,7 @@
   margin-top: 20px;
   margin-bottom: 20px;
   box-shadow: 0 6px 6px rgba(0, 0, 0, 1);
-  background: linear-gradient(to bottom,rgb(229, 216, 203), rgb(191, 168, 161)  );
+  background: linear-gradient(to bottom,#C4BFB0, #123A37  );
   color: rgb(255, 255, 255);
 }
 #profile-pic {
