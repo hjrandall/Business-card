@@ -1,6 +1,5 @@
 <template>
   <v-card id="card">
-    
     <div id="profile_header">
       <img id="profile-pic" src="./assets/profilepic.jpg" alt="profile picture">
       <h1>Dave Eckhout</h1>
