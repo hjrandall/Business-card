@@ -8,6 +8,7 @@
     <div class="info">
       <img class="left_off_set" src="./assets/smartphone.png" alt="">
       <p class="left_off_set">(480)-625-6584</p>
+      
     </div>
     <div class="info">
       <img class="left_off_set" src="./assets/mail1.png" alt="">
